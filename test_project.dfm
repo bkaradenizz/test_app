@@ -13,8 +13,8 @@ object Form1: TForm1
   PixelsPerInch = 96
   TextHeight = 15
   object StaticText1: TStaticText
-    Left = 288
-    Top = 200
+    Left = 224
+    Top = 136
     Width = 47
     Height = 19
     Caption = 'deneme'
