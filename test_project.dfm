@@ -13,11 +13,19 @@ object Form1: TForm1
   PixelsPerInch = 96
   TextHeight = 15
   object StaticText1: TStaticText
-    Left = 224
-    Top = 136
+    Left = 376
+    Top = 248
     Width = 47
     Height = 19
     Caption = 'deneme'
     TabOrder = 0
+  end
+  object StaticText2: TStaticText
+    Left = 176
+    Top = 128
+    Width = 47
+    Height = 19
+    Caption = 'deneme'
+    TabOrder = 1
   end
 end

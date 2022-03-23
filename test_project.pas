@@ -9,6 +9,7 @@ uses
 type
   TForm1 = class(TForm)
     StaticText1: TStaticText;
+    StaticText2: TStaticText;
   private
     { Private declarations }
   public
