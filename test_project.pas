@@ -10,6 +10,7 @@ type
   TForm1 = class(TForm)
     StaticText1: TStaticText;
     StaticText2: TStaticText;
+    StaticText3: TStaticText;
   private
     { Private declarations }
   public

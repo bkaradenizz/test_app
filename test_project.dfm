@@ -28,4 +28,12 @@ object Form1: TForm1
     Caption = 'deneme'
     TabOrder = 1
   end
+  object StaticText3: TStaticText
+    Left = 176
+    Top = 248
+    Width = 47
+    Height = 19
+    Caption = 'deneme'
+    TabOrder = 2
+  end
 end
